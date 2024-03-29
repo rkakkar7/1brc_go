@@ -1,0 +1,8 @@
+1 billion row
+- baseline - 2:46.97
+
+
+10 mn row (cpu - w/o profiling best of 5, mem - with mem profiling)
+- baseline - 2.68s, mem - 461MB, 1.03MB map
+- pointer optimization - 1.363s
+
