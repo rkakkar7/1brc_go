@@ -1,4 +1,4 @@
-./cpu*
-./mem*
+cpu*
+mem*
 *.test
-./measurements_*.txt
+measurements_*.txt
